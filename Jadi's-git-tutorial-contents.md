@@ -154,3 +154,6 @@
 
 - git remote rename oldName newName
     > <p dir="rtl" align="right"> تغییر نام یک ریموت </p>
+    
+    - git remote rename oldName newName
+    > <p dir="rtl" align="right"> تغییر نام یک ریموت </p>
